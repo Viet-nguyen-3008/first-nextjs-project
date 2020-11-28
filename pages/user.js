@@ -4,7 +4,7 @@ export default class User extends Component {
     render() {
         return (
             <div>
-                <h1>Hê lố</h1>
+                <h1>New Branch</h1>
             </div>
         )
     }
